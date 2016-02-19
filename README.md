@@ -1,3 +1,3 @@
 # hypergraph-ml
 
-TODO
+A bunch of hypergraph manipulation functions implemented in OCaml. 
